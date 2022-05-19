@@ -3,6 +3,9 @@ public class MySampleApexClass {       //Class definition and body
    public static String myString = ''; //Class Member variable
    public static String myStrin5 = ''; //Class Member variable
    public static String myStrin7 = ''; //Class Member variable
+   public static String variable3 = ''; //Class Member variable
+   public static String variable4 = ''; //Class Member variable
+   public static String variable5 = ''; //Class Member variable
    public static String variable1 = ''; //Class Member variable
    public static String variable2 = ''; //Class Member variable
    public static String myStrin3 = ''; //Class Member variable
@@ -12,6 +15,8 @@ public class MySampleApexClass {       //Class definition and body
    // Method definition and body
    // do some calculation
       myValue = myValue+10;
+      testing;
+      testing2;
 	testing going on;
       return myValue;
    }
